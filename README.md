@@ -1,1 +1,1 @@
-# WeatherCast
+# WeatherCast - A Weather forecast android application
